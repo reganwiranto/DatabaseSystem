@@ -4,5 +4,6 @@ Name ： 黃新瑞
 Department : 115科技
 ## Class note
 ## Homework area
+[HW2 ER Diagram](erd.jpg)
 [HW2 Video](https://youtu.be/P1NcZ1EhFSo)
 ## Final
