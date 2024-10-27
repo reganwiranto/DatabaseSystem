@@ -4,4 +4,5 @@ Name ： 黃新瑞
 Department : 115科技
 ## Class note
 ## Homework area
+[HW2](https://youtu.be/P1NcZ1EhFSo)
 ## Final
