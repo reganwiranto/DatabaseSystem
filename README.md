@@ -14,4 +14,6 @@ Department : 115科技
 
 [HW3 Code](https://github.com/reganwiranto/DatabaseSystem/blob/main/hw3%20code)
 
+[HW4 Video](https://youtu.be/Fxj2_GccnwI)
+
 ## Final
