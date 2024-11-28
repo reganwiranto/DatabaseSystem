@@ -10,7 +10,8 @@ Department : 115科技
 [HW2 Video](https://youtu.be/P1NcZ1EhFSo)
 
 [HW3 Video](https://youtu.be/9gnmmt3jD-0)
-
+[HW3 Revised Video](https://youtu.be/_PQvESPL9o0)
 
 [HW3 Code](https://github.com/reganwiranto/DatabaseSystem/blob/main/hw3%20code)
+
 ## Final
